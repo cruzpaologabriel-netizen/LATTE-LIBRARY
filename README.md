@@ -112,19 +112,19 @@
     <section id="menu">
         <h2>Our Coffee Menu</h2>
         <div class="menu-item">
-	    <img src="https://uploads.onecompiler.io/43xg44j4q/43xg42p3j/FRAPCRE_StrawberriesandCreamFrappuccino.jpg" alt="Coffee Image" width="200" height="190">
-            <h3>Caramel Latte</h3>
-            <p>Rich espresso with smooth caramel and steamed milk.</p>
+	    <img src="https://uploads.onecompiler.io/43xg44j4q/444bsj7zz/HBRE_HotBrewedCoffee.jpg" alt="Hot Brewed Coffee" width="200" height="190">
+            <h3>Hot Brewed Coffee</h3>
+            <p>Swing by and warm up while enjoying any of our three roasts brewed daily</p>
         </div>
         <div class="menu-item">
-	    <img src="https://uploads.onecompiler.io/43xg44j4q/43xg42p3j/FRAPCRE_GreenTeaCreamFrappuccino.jpg" alt="Coffee Image" width="200" height="190">
-            <h3>Hazelnut Mocha</h3>
-            <p>A delightful blend of chocolate, hazelnut, and espresso.</p>
+	    <img src="https://uploads.onecompiler.io/43xg44j4q/43xg42p3j/FRAPCRE_GreenTeaCreamFrappuccino.jpg" alt="Pure Matcha Cream Frappuccino" width="200" height="190">
+            <h3>Pure Matcha Cream Frappuccino</h3>
+            <p>We blend sweetened premium matcha green tea, milk and ice and top it with sweetened whipped cream to give you a delicious boost of energy.</p>
         </div>
         <div class="menu-item">
-	    <img src="https://uploads.onecompiler.io/43xg44j4q/43xg42p3j/FRAPCRE_ChocolateCreamFrappuccino.jpg" alt="Coffee Image" width="200" height="190">
-            <h3>Vanilla Cold Brew</h3>
-            <p>Slow-steeped perfection with a hint of vanilla.</p>
+	    <img src="https://uploads.onecompiler.io/43xg44j4q/444bsj7zz/Plant-BasedClassicLasagna.jpg" alt="Plant-Based Classic Lasagna" width="200" height="190">
+            <h3>Plant-Based Classic Lasagna</h3>
+            <p>This classic lasagna is the perfect Italian comfort food. Made with hearty plant-based ground patty Bolognese layered with plant based cheese and al-dente noodles.</p>
         </div>
         <a href="file:///C:/Users/Acer/Desktop/Cruz,%20Paolo%20Gabriel/C++%20&%20HTML/group%204%20menu%20real.html" class="see-more-btn">See More</a>
     </section>
